@@ -1,7 +1,7 @@
 WEB_PATH='/home/wwwroot/vshop/'
 WEB_PATH_CLIENT='/home/wwwroot/vshop/client'
-WEB_USER='www'
-WEB_USERGROUP='www'
+WEB_USER='root'
+WEB_USERGROUP='root'
 # we can do 
 echo "Start deployment maxzh.itnote.cn"
 cd $WEB_PATH
